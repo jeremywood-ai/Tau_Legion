@@ -54,5 +54,4 @@ My name is Chandra Lingam, and I am the instructor for this course.  I have over
 
 I have the following AWS Certifications: Solutions Architect, Developer, SysOps, Solutions Architect Professional, Machine Learning Specialty.  I am looking forward to meeting you.
 
-Course Lectures are available on following Learning Platforms:   
-https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?referralCode=9ADB4395937F7D656EB9  
+Course Lectures are available on Undemy's [Learning Platforms:]( https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?referralCode=9ADB4395937F7D656EB9)
