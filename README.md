@@ -1,5 +1,5 @@
 # Tau_Legion
-Sagemaker AI Development Porject
+Sagemaker AI Development Project
 *(Soon, it will have a mind)*
 
 ## Amazon SageMaker, Artificial Intelligence, and Machine Learning with Python Course
