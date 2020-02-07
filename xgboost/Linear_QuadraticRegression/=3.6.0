@@ -1,0 +1,21 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/ec2-user/anaconda3/envs/JupyterSystemEnv
+
+  added / updated specs:
+    - matplotlib
+    - pandas
+    - python
+
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  python                pkgs/main::python-3.6.10-h0371630_0 --> conda-forge::python-3.6.7-h381d211_1004
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
